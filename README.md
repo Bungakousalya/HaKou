@@ -25,34 +25,62 @@ providing live feedback and post-session insights.
 ## flow
 
 Start
+
   ↓
+  
 Open Application
+
   ↓
+  
 Select Language & Presentation Type
+
   ↓
+  
 Enable Camera & Microphone
+
   ↓
+  
 Start Practice Session
+
   ↓
+  
 Capture Audio (Mic)  ─────────┐
-                              ├─→ Real-Time Processing
-Capture Video (Camera) ────────┘
+                               
+                                ├─> Real-Time Processing
+
+Capture Video (Camera) ───────┘ 
+
   ↓
+  
 Speech Analysis
 (Pace, Fillers, Pauses)
+
   ↓
+  
 Body Language Analysis
 (Eye Contact, Posture, Gestures)
+
   ↓
+  
 Combine Results
+
   ↓
+  
 Live Feedback Display
 (Good / Needs Improvement)
+
   ↓
+  
 Session Ends
+
   ↓
+  
 Post-Session Analysis
+
   ↓
+  
 Performance Dashboard
+
   ↓
+  
 End
